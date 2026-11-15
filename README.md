@@ -11,9 +11,9 @@ I work on embedded systems, edge AI and Python tools, and I like building things
 
 **Embedded:** ESP32, Arduino, Raspberry Pi, C/C++, VHDL, FPGA (Nexys A7)
 
-**Software:** Python, OpenCV, scikit-learn, Flask, MQTT, ROS2
+**Software:** Python, OpenCV, scikit-learn, Flask, MQTT, ROS2, SwiftUI
 
-**Tools:** Vivado, Questa/ModelSim, Altium, Arduino IDE, Git
+**Tools:** Vivado, Questa/ModelSim, Altium, Arduino IDE, Xcode, Git
 
 ---
 
@@ -21,6 +21,7 @@ I work on embedded systems, edge AI and Python tools, and I like building things
 
 | Project | What it is |
 |---|---|
+| [FocusXP](https://github.com/iko-odaudu/focusxp) | Gamified Pomodoro timer for iOS, live on the App Store. SwiftUI, Supabase, StoreKit 2, widgets. [focusxp.site](https://focusxp.site) |
 | [Edge AI Benchmark](https://github.com/iko-odaudu/edge-ai-benchmark-semester-project) | Object detection (SSD MobileNet V2) on a Raspberry Pi 5 vs a desktop PC. Pi runs at 81 ms per image, about 5x slower, at 92 % CPU. |
 
 ### Team projects
