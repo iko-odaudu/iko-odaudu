@@ -23,10 +23,11 @@ I work on embedded systems, edge AI and Python tools, and I like building things
 |---|---|
 | [Edge AI Benchmark](https://github.com/iko-odaudu/edge-ai-benchmark-semester-project) | Object detection (SSD MobileNet V2) on a Raspberry Pi 5 vs a desktop PC. Pi runs at 81 ms per image, about 5x slower, at 92 % CPU. |
 
-### Team projects (forks)
+### Team projects
 
 | Project | What it is | My part |
 |---|---|---|
+| [FPGA Reaction Time Trainer](https://github.com/iko-odaudu/fpga-reaction-time-trainer) | Reaction time game in VHDL on an Artix-7 FPGA, with a custom Altium PCB | All nine VHDL modules, testbenches, Vivado and board validation, docs |
 | [Smart Security Gate](https://github.com/iko-odaudu/-AES-Smart-gate-system) | RFID parking gate on an ESP32 with a Raspberry Pi dashboard over MQTT | Hardware, firmware, docs |
 | [Truck Platooning](https://github.com/iko-odaudu/Machine-learning-and-truck-platooning) | Follower truck tracks a leader using an SVM, ROS2, CARLA and UPPAAL | Team lead, trained the SVM, UPPAAL models, one scenario, docs |
 | [Line-Following Vehicle](https://github.com/iko-odaudu/Prototyping-line-following-vehicle) | Arduino robot that follows a line and avoids obstacles, modelled in SysML | Line-following code, diagrams |
